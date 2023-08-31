@@ -15,7 +15,7 @@ spec:
       selfHeal: true
       allowEmpty: false
   source:
-    repoURL: https://github.com/kuboya-shunta-s84/katacoda-argocd-sample.git
+    repoURL: https://stefanprodan.github.io/podinfo
     targetRevision: 5.2.1
     chart: podinfo
     helm:
